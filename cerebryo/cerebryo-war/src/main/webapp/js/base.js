@@ -317,7 +317,6 @@ var mediaPreview;
 var appTypes = [{title: "Skills", previewData: skillsPreview, isOpen: 0},
 				{title: "Competitions", previewData: 0, isOpen: 0},
 				{title: "Projects", previewData: 0, isOpen: 0},
-				{title: "Badges", previewData: 0, isOpen: 0},
 				{title: "Teams", previewData: 0, isOpen: 0},
 				{title: "Passions", previewData: 0, isOpen: 0},
 				{title: "BrainFood", previewData: 0, isOpen: 0}
