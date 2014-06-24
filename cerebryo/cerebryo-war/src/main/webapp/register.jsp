@@ -93,13 +93,13 @@
 
 	<!-- More Scripts-->
 	<script src="js/responsivegridsystem.js"></script>
-	<!--
+	
     <script type="text/javascript">
         function init() {
             google.devrel.samples.hello.init('//' + window.location.host + '/_ah/api');
         }
     </script>
-	-->
+	
     <script src="https://apis.google.com/js/client.js?onload=init"></script>
 </div>
 </body>
